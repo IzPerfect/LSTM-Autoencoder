@@ -2,6 +2,7 @@ LSTM Autoencoder and LSTM Future Predictor in Tensorflow.
 ===
 This is a simple implementation based on this paper : https://arxiv.org/abs/1502.04681
 
+![model](/image/LSTM_Model.PNG)
 Requirement
 ---
 1. Tensorflow 1.4.0
@@ -56,3 +57,4 @@ Reference Implementations
 ---
 + https://github.com/iwyoo/LSTM-autoencoder
 + https://github.com/peytonhong/LSTMAutoencoder
++ https://arxiv.org/abs/1502.04681
