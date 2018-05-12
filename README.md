@@ -30,7 +30,7 @@ Input Reconstruction
 
 ![recon](/image/rotated_reconstruction.PNG)
 
-Input Future Prediction 
+Future Prediction 
 
 ![pred](/image/rotated_prediction.PNG)
 
@@ -47,7 +47,7 @@ Input Reconstruction
 
 ![recon](/image/shifted_reconstruction.PNG)
 
-Input Future Prediction 
+Future Prediction 
 
 ![pred](/image/shifted_prediction.PNG)
 
