@@ -18,7 +18,10 @@ Results
 ---
 From Composite Model
 
+Data sequence(left to right) : 0,1,...,t-1,t
 ### Rotated Data
+After entering sequence data in LSTM model, reconstruct the data and predict how much rotate
+
 Input Sequence
 
 ![input](/image/rotated_input_sequence.PNG)
@@ -33,6 +36,9 @@ Input Future Prediction
 
 
 ### Shifted Data
+After entering sequence data in LSTM model, reconstruct the data and predict how much shift
+
+
 Input Sequence
 
 ![input](/image/shifted_input_sequence.PNG)
