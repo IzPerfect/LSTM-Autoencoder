@@ -12,9 +12,10 @@ Requirement
 
 Usage
 ---
+Implement reconstruction or future prediction after data generation
 * Data generation using rotation and shift : Image_generation.ipynb
-* Reconstruct data using LSTM autoencoder : Autoencoder.ipynb
-* Input Reconstruction and Future Prediction : AE_with_Predictor
+	- Reconstruct data using LSTM autoencoder : Autoencoder.ipynb
+	- Input Reconstruction and Future Prediction : AE_with_Predictor
 
 Results
 ---
